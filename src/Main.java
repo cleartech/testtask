@@ -14,6 +14,5 @@ public class Main {
                 appFrame.setVisible(true);
             }
         });
-
     }
 }
